@@ -1,2 +1,2 @@
-# washam
+# wss
 washam secondary school project
